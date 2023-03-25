@@ -5,7 +5,12 @@
     "@uno-online/uno-backend": "0.0.1"
   },
   "changesets": [
+    "cyan-snakes-wink",
     "dirty-coins-beam",
-    "plenty-bobcats-turn"
+    "many-guests-sort",
+    "plenty-bobcats-turn",
+    "proud-eyes-count",
+    "shiny-mayflies-drum",
+    "tricky-foxes-clap"
   ]
 }
